@@ -68,6 +68,9 @@ main{
 a{
     color: black;
 }
+a:hover{
+    cursor: pointer;
+}
 /* main ends */
 
 /* section starts */
@@ -154,3 +157,14 @@ footer li{
         top: 0%;
     }
 }
+
+
+
+/* adding cursor  */
+
+.cancel,a,.menu{
+    cursor: pointer;
+}
+
+
+/* finished */
